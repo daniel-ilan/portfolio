@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/porfolio/static/css/main.0f8b8874.chunk.css",
+    "main.js": "/porfolio/static/js/main.b984f6b4.chunk.js",
+    "main.js.map": "/porfolio/static/js/main.b984f6b4.chunk.js.map",
+    "runtime-main.js": "/porfolio/static/js/runtime-main.d0eda2b2.js",
+    "runtime-main.js.map": "/porfolio/static/js/runtime-main.d0eda2b2.js.map",
+    "static/js/2.e248fe4e.chunk.js": "/porfolio/static/js/2.e248fe4e.chunk.js",
+    "static/js/2.e248fe4e.chunk.js.map": "/porfolio/static/js/2.e248fe4e.chunk.js.map",
+    "index.html": "/porfolio/index.html",
+    "static/css/main.0f8b8874.chunk.css.map": "/porfolio/static/css/main.0f8b8874.chunk.css.map",
+    "static/js/2.e248fe4e.chunk.js.LICENSE.txt": "/porfolio/static/js/2.e248fe4e.chunk.js.LICENSE.txt",
+    "static/media/Atlantis-editor-game.c13d7275.JPG": "/porfolio/static/media/Atlantis-editor-game.c13d7275.JPG",
+    "static/media/Atlantis-editor.6c08297a.JPG": "/porfolio/static/media/Atlantis-editor.6c08297a.JPG",
+    "static/media/Atlantis.ff9eea0f.JPG": "/porfolio/static/media/Atlantis.ff9eea0f.JPG",
+    "static/media/App.css": "/porfolio/static/media/Subtle-Prism.478db367.svg",
+    "static/media/logo.76d0ce0b.svg": "/porfolio/static/media/logo.76d0ce0b.svg",
+    "static/media/oneShot-editing.56a56f6a.JPG": "/porfolio/static/media/oneShot-editing.56a56f6a.JPG",
+    "static/media/oneShot-login.a486d712.JPG": "/porfolio/static/media/oneShot-login.a486d712.JPG",
+    "static/media/oneShot-taping.4596cba2.JPG": "/porfolio/static/media/oneShot-taping.4596cba2.JPG",
+    "static/media/weDoGood-abilities.82748a0c.JPG": "/porfolio/static/media/weDoGood-abilities.82748a0c.JPG",
+    "static/media/weDoGood-games.8b4f8937.JPG": "/porfolio/static/media/weDoGood-games.8b4f8937.JPG",
+    "static/media/weDoGood-home.a8a9e1fa.JPG": "/porfolio/static/media/weDoGood-home.a8a9e1fa.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0eda2b2.js",
+    "static/js/2.e248fe4e.chunk.js",
+    "static/css/main.0f8b8874.chunk.css",
+    "static/js/main.b984f6b4.chunk.js"
+  ]
+}
